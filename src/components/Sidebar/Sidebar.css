@@ -1,0 +1,23 @@
+.sidebar-btn{
+    display: flex;
+    font-weight: 400;
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.sidebar-btn:hover{
+    background-color: #f3f2fe;
+}
+.sidebar{
+    width: 250px;
+    border-right: 2px solid #f3f2fe;
+    
+}
+.logout-btn{
+    position: absolute;
+    bottom: 0;
+    width: 187.18px;
+}
+.supplier{
+    cursor: pointer;
+}

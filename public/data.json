@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Kevin Dukkon",
+        "email": "Kevin@fintory.com",
+        "rate" : 1.34,
+        "tradeCurrencies": "NGN → USD",
+        "amount": 1500000.00,
+        "deliveryDate": "in 8 days",
+        "status": "Active",
+        "RequiredAction": "Capture payment details",
+        "id": 1
+    },
+    {
+        "name": "Chris Kruger",
+        "email": "chris@fintory.com",
+        "rate" : 1.34,
+        "tradeCurrencies": "NGN → USD",
+        
+        "amount": 25000000.00,
+        "deliveryDate": "in 2 days",
+        "status": "Active",
+        "RequiredAction": "Upload Proof of payment",
+        "id": 2
+    },
+    {
+        "name": "Kevin Dukkon",
+        "email": "Kevin@fintory.com",
+        "rate" : 1.34,
+        "tradeCurrencies": "NGN → USD",
+        "amount": 75000000.00,
+        "deliveryDate": "2 days overdude",
+        "status": "Pending",
+        "RequiredAction": "No action required",
+        "id": 3
+    },
+    {
+        "name": "Laura Schellen",
+        "email": "laura@fintory.com",
+        "rate" : 1.34,
+        "tradeCurrencies": "NGN → USD",
+        "amount": 2000000.00,
+        "deliveryDate": "-",
+        "status": "Declined",
+        "RequiredAction": "No action required",
+        "id": 4
+    },
+    {
+        "name": "Diana palavandiana",
+        "email": "diana@fintory.com",
+        "rate" : 1.34,
+        "tradeCurrencies": "NGN → USD",
+        "amount": 2000000.00,
+        "deliveryDate": "yesterday",
+        "status": "Closed",
+        "RequiredAction": "No action required",
+        "id": 5
+    }
+]

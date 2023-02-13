@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+.App{
+    max-width: 1440px;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    padding: 0 20px;
+}

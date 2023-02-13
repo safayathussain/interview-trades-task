@@ -1,0 +1,9 @@
+
+.table-data{
+    border-radius: 20px;
+
+}
+.table-data:hover{
+    background-color: #f3f2fe;
+    cursor: pointer;
+}
